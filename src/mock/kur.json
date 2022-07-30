@@ -1,0 +1,38 @@
+{
+  "type": 1,
+  "rijder": "Jelle Delporte",
+  "datum": "2020-14-3",
+  "oefeningen":[
+    {"naam":"oef1", "punten":3.2},
+    {"naam":"oef2", "punten":2.2},
+    {"naam":"oef3", "punten":3.0},
+    {"naam":"oef4", "punten":1.2},
+    {"naam":"oef5", "punten":2.12},
+    {"naam":"oef6", "punten":6.4},
+    {"naam":"oef7", "punten":1},
+    {"naam":"oef8", "punten":2.9},
+    {"naam":"oef9", "punten":3.84},
+    {"naam":"oef10", "punten":0.21},
+    {"naam":"oef11", "punten":10.2},
+    {"naam":"oef12", "punten":2.1},
+    {"naam":"oef13", "punten":0.8},
+    {"naam":"oef14", "punten":10.25},
+    {"naam":"oef15", "punten":5.10},
+    {"naam":"oef16", "punten":1.11},
+    {"naam":"oef17", "punten":5.12},
+    {"naam":"oef18", "punten":4.01},
+    {"naam":"oef19", "punten":3.2},
+    {"naam":"oef20", "punten":3.2},
+    {"naam":"oef21", "punten":3.2},
+    {"naam":"oef22", "punten":3.2},
+    {"naam":"oef23", "punten":3.2},
+    {"naam":"oef24", "punten":3.2},
+    {"naam":"oef25", "punten":3.2},
+    {"naam":"oef26", "punten":3.2},
+    {"naam":"oef27", "punten":3.2},
+    {"naam":"oef28", "punten":3.2},
+    {"naam":"oef29", "punten":3.2},
+    {"naam":"oef30", "punten":3.2}
+  ]
+
+}
