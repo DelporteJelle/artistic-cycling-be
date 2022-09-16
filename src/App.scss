@@ -7,7 +7,12 @@ $primary: #ffffff;
 $secondary: #F99EA0;
 $CTA: #3cb8df;
 
-$button-blue: #A5D2F5;
+$background-blue: #A5D2F5;
+$blue: #3E9FEA;
+$background-green: #A6EBB9;
+$green: #2CC154;
+$background-red: #f8bdbe;
+$red: #F5494D;
 
 //Text styles
 .title {
@@ -81,10 +86,21 @@ $button-blue: #A5D2F5;
   background-color: #CFCFCF;
 }
 .pause{
-  background-color: $button-blue;
+  background-color: $background-blue;
 }
 .restart{
   background-color: $secondary;
+}
+.loginBtn{
+  background-color: $background-blue;
+  width: 100%;
+  height: 50px;
+  margin-top: 30px;
+  border-radius: 5px;
+  font-family: "Baloo Chettan 2";
+  font-size: 24px;
+  font-weight: bold;
+  color: $blue;
 }
 //===========touchpad buttons=============
 .touchPad{
@@ -102,22 +118,22 @@ $button-blue: #A5D2F5;
     font-size: 20px;
   }
   .b{
-    color: #3E9FEA;
-    background-color: $button-blue;
+    color: $blue;
+    background-color: $background-blue;
     &:hover{
       background-color: #c2dff6;
     }
   }
   .r{
-    color: #F5494D;
+    color: $red;
     background-color: $secondary;
     &:hover{
-      background-color: #f8bdbe;
+      background-color: $background-red;
     }
   }
   .g{
-    color: #2CC154;
-    background-color: #A6EBB9;
+    color: $green !important;
+    background-color: $background-green;
     &:hover{
       background-color: #C5F2D1;
     }
@@ -125,7 +141,7 @@ $button-blue: #A5D2F5;
 }
 
 .focus{
-  border: solid $button-blue 2px !important;
+  border: solid $background-blue 2px !important;
 }
 .scrollbar{
   height: 600px;

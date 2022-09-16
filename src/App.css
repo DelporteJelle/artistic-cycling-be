@@ -93,6 +93,18 @@
   background-color: #F99EA0;
 }
 
+.loginBtn {
+  background-color: #A5D2F5;
+  width: 100%;
+  height: 50px;
+  margin-top: 30px;
+  border-radius: 5px;
+  font-family: "Baloo Chettan 2";
+  font-size: 24px;
+  font-weight: bold;
+  color: #3E9FEA;
+}
+
 .touchPad {
   position: fixed;
   bottom: 20px;
@@ -131,7 +143,7 @@
 }
 
 .touchPad .g {
-  color: #2CC154;
+  color: #2CC154 !important;
   background-color: #A6EBB9;
 }
 
